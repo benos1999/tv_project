@@ -1,0 +1,13 @@
+barb_combine.py
+barb_download.log
+barb_download.py
+barb_top50_combined.csv
+classify_production.py
+dataset_bulk-google-trends-for-seo-keyword-lists_2026-11-12_19-10-10-328.csv
+imdb_title_ratings.tsv.gz
+manual_matches.csv
+tmdb_cache.json
+tv_mapping.ipynb
+tv_proj.pbix
+tvmaze_cache.json
+/barb_raw

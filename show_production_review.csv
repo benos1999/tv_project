@@ -1,0 +1,39 @@
+show,broadcaster,content_type,origin_country,country,production_companies,aired_on,production_category,in_house_producer,bbc_studios_made,bbc_studios_involved,in_house_with_external_producer,check_aired_on_mismatch
+7 - 70 UP UK,ITV,tv,,,,,Unknown,,False,False,False,False
+A MARY BERRY CHRISTMAS,BBC,tv,US,US,,,Non-UK / bought in,,False,False,False,False
+AMERICAN HORROR STORY,WALT DISNEY CO LTD,tv,US,US,"Ryan Murphy Television, Brad Falchuk Teley-vision, 20th Century Fox Television, 20th Television",FX,Non-UK / bought in,,False,False,False,True
+ANNIKA,BBC,tv,GB,GB,"Black Camel Pictures, Masterpiece, Sahil Arora Creative Films SACF, Prime Link Media PLM",U&Alibi,UK independent,,False,False,False,True
+APPLES NEVER FALL,BBC,tv,US,US,"Universal International Studios, Heyday Television, Matchbox Pictures, Call Me Mel Productions, UCP",Peacock,Non-UK / bought in,,False,False,False,True
+AUSTIN,BBC,tv,AU,AU,Northern Pictures,ABC TV,Non-UK / bought in,,False,False,False,True
+BLUEY,WALT DISNEY CO LTD,tv,AU,AU,"Ludo Studio, Australian Broadcasting Corporation, Screen Australia, Screen Queensland, CBeebies, BBC Worldwide, BBC Studios Distribution",ABC Kids,Non-UK / bought in,,False,True,False,True
+COLIN FROM ACCOUNTS,BBC,tv,AU,AU,"CBS Studios, Easy Tiger",Binge,Non-UK / bought in,,False,False,False,True
+COVEN ACADEMY,WALT DISNEY CO LTD,tv,US,,"Chorus Boy, Bear Claw Productions, Slavkin/Swimmer Productions, Disney Kids & Family",Freeform,Non-UK / bought in,,False,False,False,True
+DEAL OR NO DEAL CELEBRITY SPECIAL,ITV,tv,,,,,Unknown,,False,False,False,False
+HIGH COUNTRY,BBC,tv,AU,AU,"Curio Pictures, Foxtel Group","Binge, Showcase",Non-UK / bought in,,False,False,False,True
+HOUSE OF THE DRAGON,SKY,tv,US,US,"HBO, Bastard Sword, 1:26 Pictures, GRRM",HBO,Non-UK / bought in,,False,False,False,True
+"I, JACK WRIGHT",BBC,tv,GB,GB,Federation Stories,U&Alibi,UK independent,,False,False,False,True
+KIN,BBC,tv,IE,IE,"Bron Studios, Headline Pictures, Viaplay Group, Metropolitan Pictures, Fís Éireann/Screen Ireland, Creative Wealth Media Finance",RTÉ One,Non-UK / bought in,,False,False,False,True
+LYNLEY,BBC,tv,US,,"BBC Studios, BritBox International, Playground Entertainment, Salt Films",BritBox,In-house,BBC Studios,True,True,True,True
+MARRIED AT FIRST SIGHT AUSTRALIA,CHANNEL 4,tv,AU,AU,EndemolShine Australia,Nine Network,Non-UK / bought in,,False,False,False,True
+MURDER BEFORE EVENSONG,CHANNEL 5,tv,US,,"The Lighthouse, Acorn TV, Acorn Media Enterprises, Sky Studios",Acorn TV,Non-UK / bought in,,False,False,False,True
+NCIS,WALT DISNEY CO LTD,tv,US,US,"Paramount Television, Belisarius Productions, CBS Studios",CBS,Non-UK / bought in,,False,False,False,True
+NINE BODIES IN A MEXICAN MORGUE,BBC,tv,US,US,"Eleventh Hour Films, MGM+ Studios, Sony Pictures Television",MGM+,Non-UK / bought in,,False,False,False,True
+NORTH SHORE,ITV,tv,AU,AU,"Beach Road Pictures, Screen Australia",10,Non-UK / bought in,,False,False,False,True
+SCRUBS (2026),WALT DISNEY CO LTD,tv,US,US,"Doozer, 20th Television, Seemu!",ABC,Non-UK / bought in,,False,False,False,True
+SHARDLAKE,ITV,tv,GB,,"The Forge Entertainment, The Walt Disney Company EMEA, Runaway Fridge Productions",Disney+,UK independent,,False,False,False,True
+SPORTS CENTRE,SKY,tv,GB,GB,STV News,STV,UK independent,,False,False,False,True
+SPORTS CENTRE: EPISODE 8,SKY,tv,GB,GB,STV News,STV,UK independent,,False,False,False,True
+THE AMERICAS,BBC,tv,US,US,"BBC Studios Natural History Unit, Universal Television Alternative Studio",NBC,In-house,BBC Studios Natural History Unit,True,True,True,True
+THE BATTLE FOR NO 10: EPISODE 5,SKY,tv,,,,,Unknown,,False,False,False,False
+THE CRASH,NETFLIX,tv,GB,GB,DSP,BBC Three,UK independent,,False,False,False,True
+THE CROW GIRL,CHANNEL 5,tv,GB,,Buccaneer Media,Paramount+,UK independent,,False,False,False,True
+THE GREAT BRITISH BAKE OFF,CHANNEL 4,tv,GB,GB,Love Productions,"BBC One, BBC Two",UK independent,,False,False,False,True
+THE GREAT BRITISH BAKE OFF: FESTIVE SPECIALS,CHANNEL 4,tv,GB,GB,Love Productions,"BBC One, BBC Two",UK independent,,False,False,False,True
+THE KING,BBC,tv,HU,GB,RTL KLUB,RTL,Non-UK / bought in,,False,False,False,True
+THE LAST ANNIVERSARY,BBC,tv,AU,AU,"Blossom Films, Fifth Season, Made Up Stories, Foxtel Group",Binge,Non-UK / bought in,,False,False,False,True
+THE NARROW ROAD TO THE DEEP NORTH,BBC,tv,AU,,"Curio Pictures, Screen Australia, Thirdborn",Prime Video,Non-UK / bought in,,False,False,False,True
+THE STOLEN GIRL,ITV,tv,GB,,"Brightstar, Quay Street Productions, The Walt Disney Company EMEA",Disney+,In-house,Quay Street Productions,False,False,True,True
+THE TURKISH DETECTIVE,BBC,tv,TR,,"Ay Yapım, Miramax, Paramount Television International Studios",TV+,Non-UK / bought in,,False,False,False,True
+THE WALSH SISTERS,BBC,tv,IE,IE,"Cuba Pictures, Metropolitan Pictures",RTÉ One,Non-UK / bought in,,False,False,False,True
+THE WIDOWER: 'TIL DEATH DO US PART,NETFLIX,tv,GB,GB,Octagon Films,ITV1,UK independent,,False,False,False,True
+TRACES,BBC,tv,GB,GB,Red Production Company,U&Alibi,UK independent,,False,False,False,True
